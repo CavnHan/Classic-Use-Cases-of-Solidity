@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "MY_ADDRESS",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "MY_UINT",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contacts/classicUseCase/constants.sol": "Constants"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contacts/classicUseCase/constants.sol": {
+			"keccak256": "0x1bce9e2be6074e531828b9b4a97479d02f8e4391af4f2bab60b043414fdf0e92",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d55eba8f3eae4f0df582e013f6984c8e1924caaad4501771d3280e9c395d5ed9",
+				"dweb:/ipfs/QmPSUsCaGZDnZ2Co8tqTmgdF7jha8w8YugmbCcXrcByUmT"
+			]
+		}
+	},
+	"version": 1
+}
