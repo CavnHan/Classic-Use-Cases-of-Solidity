@@ -1,2 +1,2 @@
-# my_solidity_example
-solidity经典用例
+#solidity
+#Go以太坊
