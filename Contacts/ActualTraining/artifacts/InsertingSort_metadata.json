@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.24+commit.e11b9ed9"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "array",
+						"type": "uint256[]"
+					}
+				],
+				"name": "insertionSort",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "sortAndGetResult",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contacts/ActualTraining/insertion_sorting.sol": "InsertingSort"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contacts/ActualTraining/insertion_sorting.sol": {
+			"keccak256": "0x8ad83bdbae11183ad7ddd7aa3e032e64dd8cfb43731b0eaba1bdf03142107943",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6605fb1558fc4e223449d65e66d08399a807070bac95069984087306649ff2cb",
+				"dweb:/ipfs/QmbC6fuWYmXwHbJCQrKZqVmp6ujUgUWP2vDZjpuCeeDJak"
+			]
+		}
+	},
+	"version": 1
+}
